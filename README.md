@@ -1,1 +1,1 @@
-# tea-house-resources
+# tea-house
